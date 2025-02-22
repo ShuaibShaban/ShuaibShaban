@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Node Express.<br>🎯 Goals: Be a Fullstack Software Developer.</p>
+<p align="left">📚 I'm currently learning PHP and Laravel.<br>🎯 Goals: Be a Fullstack Software Developer.</p>
 
 ###
 
